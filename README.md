@@ -25,8 +25,6 @@ Fork and clone this repository.
 
 ## Installation
 
-### Backend
-
 Move into the backend directory of this project.
 Use the gem manager [bundler](https://bundler.io/v2.0/guides/rails.html) to install all dependencies. Start the Rails server.
 
