@@ -1,6 +1,6 @@
-# A Little Help
+# Whatsyourcocktail
 
-Use A Little Help to create tasks that you need help with, or browse others' tasks and offer to help them.
+Use Whatsyourcocktail to create cocktail recipes, browse others' cocktails, like and comment on them.
 
 ## Prerequisites
 
@@ -19,11 +19,9 @@ postgres -V
 
 This should output some information on the installed versions.
 If not, you can refer to the [Ruby](https://www.ruby-lang.org/en/documentation/installation/), [Postgres](https://www.postgresql.org/) and [Rails](https://guides.rubyonrails.org/v5.0/getting_started.html) documentation.
-
 ## Getting Started
 
 Fork and clone this repository.
-Start Postgres.
 
 ## Installation
 
@@ -37,18 +35,6 @@ cd backend
 bundle install
 rails start
 ```
+Visit localhost:3000.
 
-### Frontend
-
-On a new terminal tab, move into the frontend directory inside the root directory of the project. Use the package manager [npm](https://www.npmjs.com/) to install all dependencies and start the server.
-
-```bash
-cd frontend
-npm install
-npm start
-```
-#### All good to go!
-
-### Notes
-
-This app is optimised for mobile use, please change your browser's device settings accordingly.
+### All good to go!
